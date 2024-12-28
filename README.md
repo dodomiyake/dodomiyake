@@ -4,7 +4,7 @@ Hi, I’m Oluwadamilola Ajayi! I’m a Software Developer currently learning and
 
 
 ## 🤝 Connect with Me
-- **Email:** [Contact Me](mailto:oluwadamilola.william@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile]  
+- **Email:** oluwadamilola.william@gmail.com
+- **LinkedIn:** [Visit My Profile](https://www.linkedin.com/in/oluwadamilolaxajayi/)
 
 Thanks for visiting my profile—stay tuned for upcoming projects! 🌟
